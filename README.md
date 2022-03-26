@@ -1,12 +1,21 @@
 # Keenotes
 **Android Social App &amp; News**
+<!------------------------------------------------------------------------->
+
+[github]:           https://github.com/Fut1le/Keenotes
+[platform-badge]:   https://img.shields.io/badge/Platform-Android-F3745F.svg
+[minsdk-badge]:     https://img.shields.io/badge/minSdkVersion-16-F3745F.svg
+
+[![platform-badge]][github]
+[![minsdk-badge]][github]
+
+<!------------------------------------------------------------------------->
 
 [Website](https://vl-keenotes.web.app/) | [Google Play](https://play.google.com/store/apps/details?id=com.ruya.takimi.keenotes)
 
 ### Keenotes is a social network focused on the privacy and data protection of our users. Beautiful design, fast and stable performance, many functions will give you the best experience. Share photos with your friends, ask your questions on the forum, communicate with your friends using messages, be aware of all the news from Keenotes!
 
 ![banner](https://user-images.githubusercontent.com/43324348/160253567-0b58b516-a704-4413-8795-a889518d61b3.jpg)
-
 
 <!------------------------------------------------------------------------->
 
