@@ -71,7 +71,7 @@ This application also shows the work of my modules well, you can find them here:
     <tr>
       <td>
         <img
-          src="https://github.com/Fut1le/Keenotes/blob/master/screenshots/profile_light.jpg"
+         src="https://github.com/Fut1le/Keenotes/blob/master/screenshots/profile_light.jpg"
         />
       </td>
       <td>
@@ -95,7 +95,19 @@ This application also shows the work of my modules well, you can find them here:
   </tbody>
 </table>
 
+## Details
 
+📎 Post types
+<div style="dispaly:flex">
+    <img src="https://user-images.githubusercontent.com/43324348/160256307-508177e7-1d7b-48b1-9256-810e3dbe9571.png" width="40%">
+    <img src="https://user-images.githubusercontent.com/43324348/160256308-d4e34644-94b3-4f03-a480-d7af951aca88.png" width="40%">
+</div>
+
+📎 Notification
+<div style="dispaly:flex">
+    <img src="https://user-images.githubusercontent.com/43324348/160256313-1dc4e6eb-cd72-4534-ab6a-59aa751289f2.png" width="40%">
+    <img src="https://user-images.githubusercontent.com/43324348/160256315-6790b1ef-92f0-4941-931c-48b6b43ca966.png" width="40%">
+</div>
 
 <!------------------------------------------------------------------------->
 
@@ -146,4 +158,16 @@ service firebase.storage {
 ```
 <!------------------------------------------------------------------------->
 
-Copyright ©2022 All rights reserved.
+
+## Bonus
+
+
+<img width="600" alt="Снимок экрана 2022-03-26 в 23 56 05" src="https://user-images.githubusercontent.com/43324348/160256765-8ccdd23d-e091-4fec-a2b8-1d76a549ab68.png">
+⌚️ Optimized for the watch
+
+
+<div style="dispaly:flex">
+    <img src="https://user-images.githubusercontent.com/43324348/160256737-7e35be9c-78a5-4681-b9a5-ab9aa310773e.png" width="40%">
+    <img src="https://user-images.githubusercontent.com/43324348/160256732-8dcfcc89-8f0b-4ffe-a09d-60c01fa05423.png" width="40%">
+</div>
+🕹 Games
