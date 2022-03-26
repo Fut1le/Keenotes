@@ -34,7 +34,66 @@ This application also shows the work of my modules well, you can find them here:
 - Smooth fluid design
 - No ads
 
+## Screenshots
 
+<table>
+  <thead>
+    <tr>
+      <th>Light Mode</th>
+      <th>Dark Mode</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img
+          src="https://github.com/Fut1le/Keenotes/blob/master/screenshots/dashboard_light.jpg"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github.com/Fut1le/Keenotes/blob/master/screenshots/dashboard_dark.jpg"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://github.com/Fut1le/Keenotes/blob/master/screenshots/music_light.jpg"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github.com/Fut1le/Keenotes/blob/master/screenshots/music_dark.jpg"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://github.com/Fut1le/Keenotes/blob/master/screenshots/profile_light.jpg"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github.com/Fut1le/Keenotes/blob/master/screenshots/profile_dark.jpg"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://github.com/Fut1le/Keenotes/blob/master/screenshots/video_light.jpg"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github.com/Fut1le/Keenotes/blob/master/screenshots/video_dark.jpg"
+        />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
