@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>Place Name</item>
+        <item>Address</item>
+        <item>LatLng</item>
+    </string-array>
+
+    <string-array name="subject" translatable="true">
+        <item>Бухгалтерия</item>
+        <item>Астрономия</item>
+        <item>Биология</item>
+        <item>Бизнес-математика</item>
+        <item>Информатика</item>
+        <item>Коммерция</item>
+        <item>Химия</item>
+        <item>Экономика</item>
+        <item>География</item>
+        <item>История</item>
+        <item>Физика</item>
+        <item>Политика</item>
+        <item>Математика</item>
+    </string-array>
+
+    <string-array name="colors_array">
+        <item>#f44336</item>
+        <item>#e91e63</item>
+        <item>#9c27b0</item>
+        <item>#673ab7</item>
+        <item>#3f51b5</item>
+        <item>#2196f3</item>
+        <item>#00897b</item>
+        <item>#4caf50</item>
+        <item>#ff5722</item>
+    </string-array>
+
+    <string-array name="ld_activityScreenTitles" translatable="true">
+        <item>Лента</item>
+        <item>Форум</item>
+        <item>Сообщения</item>
+        <item>Друзья</item>
+        <item>Подробнее</item>
+        <item />
+        <item>Выйти</item>
+
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_dashboard_black_24dp</item>
+        <item>@drawable/ic_forum_black_24dp</item>
+        <item>@drawable/ic_flash_on_black_24dp</item>
+        <item>@drawable/ic_group_white_24dp</item>
+        <item>@drawable/ic_about</item>
+        <item>0</item>
+        <item>@drawable/ic_exit_to_app_black_24dp</item>
+    </array>
+
+    <string-array name="details">
+        <item>Place Name</item>
+        <item>Address</item>
+        <item>LatLng</item>
+    </string-array>
+
+</resources>

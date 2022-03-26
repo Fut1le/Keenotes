@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_global"
+        android:icon="@drawable/ic_public_black_24dp"
+        android:title="@string/global"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_my"
+        android:icon="@drawable/ic_live_help_black_24dp"
+        android:title="@string/my_questions"
+        app:showAsAction="ifRoom" />
+
+</menu>

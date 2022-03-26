@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?colorPrimaryDark"
+    tools:context=".ui.activities.TilesGameActivity"
+    android:weightSum="10"
+    android:paddingBottom="100dp"
+    android:fitsSystemWindows="true">
+
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        tools:ignore="MissingConstraints">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:title="Have Fun :)"
+            android:fontFamily="@font/bold"/>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <LinearLayout
+        android:layout_marginTop="24dp"
+        android:layout_marginHorizontal="30dp"
+        android:weightSum="10"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+        <TextView
+            android:id="@+id/mLevel"
+            android:textColor="@color/colorAccentt"
+            android:textSize="20sp"
+            android:gravity="start"
+            android:text="Tiles: 3"
+            android:layout_weight="4"
+            android:textStyle="bold"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:id="@+id/mScore"
+            android:textColor="@color/colorAccentt"
+            android:gravity="end"
+            android:textSize="20sp"
+            android:text="Score: 212"
+            android:textStyle="bold"
+            android:layout_weight="4"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/mTime"
+        android:textColor="@color/colorAccentt"
+        android:gravity="center"
+        android:textSize="36sp"
+        android:text="3"
+        android:textStyle="bold"
+        android:fontFamily="@font/bold"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_gravity="center"
+        android:layout_weight="8"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+        <GridView
+            android:layout_marginTop="24dp"
+            android:layout_marginHorizontal="30dp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:id="@+id/myGridView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:columnWidth="100dp"
+            android:numColumns="6"
+            android:verticalSpacing="4dp"
+            android:horizontalSpacing="4dp"
+            android:stretchMode="columnWidth"
+            android:visibility="visible"/>
+        <GridView
+            android:layout_marginTop="24dp"
+            android:layout_marginHorizontal="30dp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:id="@+id/myGridViewResult"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:columnWidth="100dp"
+            android:numColumns="6"
+            android:verticalSpacing="4dp"
+            android:horizontalSpacing="4dp"
+            android:stretchMode="columnWidth"
+            android:visibility="visible"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>

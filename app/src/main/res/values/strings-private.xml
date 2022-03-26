@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Keenotes X</string>
+    <string name="package_name" translatable="false">com.ruya.takimi.keenotes</string>
+
+    <string name="about_author">Vladimir Leonov</string>
+    <string name="about_author_2">Alexander Dedyukhin</string>
+    <string name="sp_thanks">Janis Beitans</string>
+    <string name="email" translatable="false">mr.vovanumberone@gmail.com</string>
+
+    <string name="programer">Programer</string>
+    <string name="tester">Tester</string>
+
+</resources>

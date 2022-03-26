@@ -1,0 +1,242 @@
+<resources>
+
+    <string name="Welcome_message">Welcome to Keenotes</string>
+    <string name="register_message">Create a new Account</string>
+    <string name="loading_name" translatable="false">Loading Name...</string>
+
+    <!--maps api key-->
+    <string name="api_key" translatable="false">AIzaSyCJ7pGLnoyTiBF8_2tr6oKA0wzeKzR0FcY</string>
+
+    <string name="default_notification_channel_id" translatable="false">@string/app_name</string>
+    <string name="loading_message" translatable="false">Getting Message..</string>
+    <string name="verify_your_mobile">Verify your Mobile</string>
+    <string name="title_1">Title</string>
+    <string name="text_1">Text</string>
+    <string name="messages">Messages</string>
+    <string name="friends">Friends</string>
+    <string name="profile">My Profile</string>
+    <string name="posts">Posts</string>
+    <string name="action_remove">Unfriend</string>
+    <string name="transition_name" translatable="false">logo_transition</string>
+    <string name="extras" translatable="false">Extras</string>
+
+    <!-- app. -->
+    <string name="title_activity_about_us" translatable="false">About_us</string>
+    <string name="tab_text_1" translatable="false">Tab 1</string>
+    <string name="tab_text_2" translatable="false">Tab 2</string>
+    <string name="tab_text_3" translatable="false">Tab 3</string>
+    <string name="web_url" translatable="false">https://vl-keenotes.web.app/</string>
+
+    <string name="action_panorama" translatable="false">Show panorama</string>
+    <string name="loading_failed">Loading failed. :-(</string>
+    <string name="try_again">Try again</string>
+    <string name="app_name_world" translatable="false">OurStreets</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="default_bio" translatable="false">Hey there, I am a Keenotes user.</string>
+    <string name="username" translatable="false">\@username</string>
+    <string name="dummy_location" translatable="false">Getting location</string>
+    <string name="loading_username" translatable="false">\@loading...</string>
+    <string name="select_from_gallery">Select from gallery</string>
+    <string name="click_on_the_button_below_to_select_image_s">Click on the button below to select image(s)</string>
+    <string name="insert_image_s">Insert Image(s)</string>
+    <string name="s_people_have_smiled_for_this_post">%d people liked this post</string>
+    <string name="s_people_have_saved_this_post">%d people have saved this post</string>
+    <string name="you_have_d_new_friend_request_s">You have %d new friend request(s)</string>
+    <string name="desc_post">Some description about the post</string>
+    <string name="your_text_here">Your text here</string>
+
+    <!-- add question. -->
+    <string name="add_question_title">Add Question</string>
+    <string name="add_question">Enter question here</string>
+    <string name="subject">Subject</string>
+
+    <!-- add answer. -->
+    <string name="add_answer">Type your answer here</string>
+
+    <!-- answered. -->
+    <string name="filter">Filter by subjects :</string>
+    <string name="filter_all">    All    </string>
+    <string name="filter_accountancy"> Accountancy </string>
+    <string name="filter_astronomy"> Astronomy </string>
+    <string name="filter_biology"> Biology </string>
+    <string name="filter_business_math"> Business Maths </string>
+    <string name="filter_computer_science"> Computer Science </string>
+    <string name="filter_commerce">  Commerce  </string>
+    <string name="filter_chemistry">  Chemistry  </string>
+    <string name="filter_economics">  Economics  </string>
+    <string name="filter_geography">  Geography  </string>
+    <string name="filter_history">  History  </string>
+    <string name="filter_physics">  Physics  </string>
+    <string name="filter_political_science">  Political Science  </string>
+    <string name="filter_math">  Maths  </string>
+    <string name="no_questions">No questions yet</string>
+    <string name="your_questions_here">All your question appear here</string>
+    <string name="unmark">Unmark as Answer</string>
+    <string name="mark">Mark as Answer</string>
+
+    <!-- login. -->
+    <string name="hello">Hello there,</string>
+    <string name="welcome_back">welcome back</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot your Password ?</string>
+    <string name="sigh_in">Sign In</string>
+
+    <!-- register. -->
+    <string name="get_on_board" translatable="false">Get on Board</string>
+    <string name="profile_pic">Select profile picture</string>
+    <string name="full_name">Full Name</string>
+    <string name="register_username">Username</string>
+    <string name="city">City</string>
+    <string name="terms">Terms and Use</string>
+    <string name="policy">Privacy Policy</string>
+    <string name="sigh_up_btn">Sign Up</string>
+    <string name="member">I am already a member</string>
+    <string name="register_email" translatable="false">Email</string>
+
+
+    <!-- main. -->
+    <string name="dashboard">Dashboard</string>
+    <string name="view_profile">View profile</string>
+
+    <string name="no_posts">No posts yet</string>
+    <string name="add_some_friends">Add some friends to see their posts here</string>
+
+    <!-- notification. -->
+    <string name="message">Message</string>
+    <string name="send_new">Send new</string>
+    <string name="reply">Reply</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="notifications" translatable="false">Notifications</string>
+    <string name="no_notifications">No notifications yet </string>
+
+    <!-- activity post. -->
+    <string name="comment">Comment</string>
+    <string name="add_a_comment">Add a comment</string>
+    <string name="send"> Send</string>
+    <string name="post_desc">Some description about the post</string>
+    <string name="new_image_post">New Image Post</string>
+    <string name="you_text_here">Your text here</string>
+    <string name="preview">Preview</string>
+    <string name="new_text_post">New Text Post</string>
+
+    <!-- search users. -->
+    <string name="search_users">Search users</string>
+    <string name="search_by_name">Search by name</string>
+
+    <!-- activity send. -->
+    <string name="attachment">Click here to add an attachment</string>
+    <string name="remove_attachment"> Remove Attachment </string>
+    <string name="share_location"> Share location </string>
+    <string name="send_message"> Send message </string>
+
+    <!-- music. -->
+    <string name="music">Music</string>
+    <string name="music_upload">Music Upload</string>
+    <string name="song_name">Song name</string>
+    <string name="artist_name">Artist name</string>
+    <string name="select_thumbnail">Select Thumbnail</string>
+    <string name="upload">Upload</string>
+
+    <!-- video. -->
+    <string name="video_upload">Video Upload</string>
+    <string name="title">Title</string>
+    <string name="choose_video">Choose video </string>
+    <string name="show_video">Show video </string>
+    <string name="video">Video</string>
+
+    <!-- about. -->
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="website">Website</string>
+    <string name="support">Support</string>
+    <string name="authors">Authors</string>
+    <string name="tiles_game" translatable="false">Tiles</string>
+
+
+    <!-- profile. -->
+    <string name="getting_name" translatable="false">Getting name...</string>
+    <string name="getting_user_bio" translatable="false">Getting user bio...</string>
+    <string name="user_bio">User Bio</string>
+    <string name="details">Account Details</string>
+    <string name="getting_friends" translatable="false">Getting friends count...</string>
+    <string name="getting_posts" translatable="false">Getting posts count...</string>
+
+    <!-- profile edit. -->
+    <string name="save_details"> Save details </string>
+    <string name="change_avatar"> Change profile picture </string>
+    <string name="change_password"> Change password </string>
+    <string name="bio">Bio</string>
+    <string name="location">Location</string>
+
+    <!-- discover. -->
+    <string name="general"> General </string>
+    <string name="business"> Business </string>
+    <string name="entertainment"> Entertainment </string>
+    <string name="health"> Health </string>
+    <string name="science"> Science </string>
+    <string name="sports"> Sports </string>
+    <string name="technology"> Technology </string>
+    <string name="author">Author</string>
+    <string name="desc">Desc</string>
+    <string name="source">Source</string>
+    <string name="time">Time</string>
+    <string name="retry">Retry</string>
+
+    <!-- messages. -->
+    <string name="message_type">Message Type :</string>
+    <string name="text_messages"> Text messages </string>
+    <string name="text_messages_reply"> Text messages replies </string>
+    <string name="image_messages"> Image messages </string>
+    <string name="image_messages_reply"> Image messages replies</string>
+    <string name="no_messages_found">No messages found</string>
+    <string name="messages_shown_here">Messages sent to you will be shown here</string>
+    <string name="click_to_message">Click to send a message</string>
+    <string name="add_some_friends_to_messages">Add some friends to send them messages</string>
+
+    <!-- friends. -->
+    <string name="no_friends">No friends found</string>
+    <string name="all_your_friends">All your friends show up here</string>
+    <string name="add_as_friend">Add as friend</string>
+    <string name="unfriend">Unfriend</string>
+    <string name="getting_user" translatable="false">Getting User...</string>
+    <string name="getting_username" translatable="false">Getting username...</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="no_users_found">No users found</string>
+    <string name="no_request_found">No requests yet</string>
+    <string name="users_who_send_friend_request_will_be_shown_here">Users who send friend request will be shown here</string>
+
+
+
+    <!-- menu. -->
+    <string name="home">Home</string>
+    <string name="discover">Discover</string>
+    <string name="global">Global</string>
+    <string name="my_questions">My Questions</string>
+    <string name="m_profile">Profile</string>
+    <string name="m_posts">Posts</string>
+    <string name="m_saves">Saved</string>
+    <string name="m_edit">Edit</string>
+    <string name="m_quetions">Questions</string>
+    <string name="my_friends">My Friends</string>
+    <string name="friends_requests">Friend Requests</string>
+    <string name="add_friends">Add friends</string>
+    <string name="post">Post</string>
+    <string name="m_send">Send</string>
+    <string name="m_history">History</string>
+    <string name="upload_song">Upload Song</string>
+    <string name="search">Search</string>
+    <string name="clear_all">Clear all</string>
+    <string name="notification">Notifications</string>
+    <string name="media">Media</string>
+    <string name="add_post">Add Post</string>
+    <string name="add_questions">Add Question</string>
+    <string name="upload_movies">Upload Movies</string>
+    <string name="new_here">New here ? Sign Up instead</string>
+    <string name="agree">By creating an account you agree to our</string>
+
+
+</resources>

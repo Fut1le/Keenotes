@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/uploadmovieItem"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/upload_movies" />
+    <item android:id="@+id/search_firebase"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="always"
+        android:title="@string/search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+
+</menu>

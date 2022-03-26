@@ -1,0 +1,54 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorAccentt</item>
+        <item name="colorAccent">@color/colorAccentt</item>
+        <item name="dialogSheetAccent">@color/colorAccentt</item>
+        <item name="actionBarPopupTheme">@style/AppTheme.PopupOverlay</item>
+    </style>
+
+    <style name="AppTheme2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorAccentt</item>
+        <item name="colorAccent">@color/colorAccentt</item>
+        <item name="dialogSheetAccent">@color/colorAccentt</item>
+        <item name="actionBarPopupTheme">@style/AppTheme.PopupOverlay</item>
+    </style>
+
+    <style name="BottomNavigationBarTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorAccentt</item>
+        <item name="colorAccent">@color/colorAccentt</item>
+        <item name="actionBarPopupTheme">@style/AppTheme.PopupOverlay</item>
+        <item name="dialogSheetAccent">@color/colorAccentt</item>
+    </style>
+
+    <style name="ImagePostTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccentt</item>
+        <item name="dialogSheetAccent">@color/colorAccentt</item>
+        <item name="actionBarPopupTheme">@style/AppTheme.PopupOverlay</item>
+    </style>
+
+    <style name="LoginAppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorAccentt</item>
+        <item name="dialogSheetAccent">@color/colorAccentt</item>
+        <item name="colorAccent">@color/colorAccentt</item>
+    </style>
+
+    <style name="UpdateAppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorAccentt</item>
+        <item name="dialogSheetAccent">@color/colorAccentt</item>
+        <item name="colorAccent">@color/colorAccentt</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.MaterialComponents" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.MaterialComponents" />
+
+    <style name="SplashAppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorAccent">@color/colorAccentt</item>
+        <item name="colorPrimary">@color/colorAccentt</item>
+        <item name="android:windowBackground">@drawable/splash_window_bg</item>
+        <item name="dialogSheetAccent">@color/colorAccentt</item>
+    </style>
+
+</resources>
